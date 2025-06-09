@@ -10,7 +10,7 @@
 body{
      background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pozadina.png);
     background-repeat: no-repeat;
-    background-size: 100% 110%; 
+    background-size: cover; 
     color: white;
     height: 100vh;
 }
