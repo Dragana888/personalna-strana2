@@ -12,7 +12,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 110%; 
     color: white;
-    height: 100vh
+    height: 100vh;
 }
 /* #backgr{
     filter: brightness(50%);
